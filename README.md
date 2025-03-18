@@ -1,6 +1,6 @@
 <h2 align="center">
   Hello There, I'm Yuda 
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzB2Y3lqb3k5ZjJoNDUxN3R2eGJnM2Z0azQzaHNpcXhkNDk3ZTBvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/02RJUkpmGy0qmu4Dwz/giphy.gif" width="30px"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzB2Y3lqb3k5ZjJoNDUxN3R2eGJnM2Z0azQzaHNpcXhkNDk3ZTBvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/02RJUkpmGy0qmu4Dwz/giphy.gif" width="60px"/>
 </h2>
 
 <div align="center">
