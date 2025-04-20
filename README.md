@@ -26,6 +26,12 @@
 ![WordPress](https://img.shields.io/badge/wordpress-%233E73A0.svg?style=for-the-badge&logo=wordpress&logoColor=white) 
 ![Shopify](https://img.shields.io/badge/shopify-%207AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white) 
 ![VueJS](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-%23000000.svg?style=for-the-badge&logo=axios&logoColor=white)
+![Fetch API](https://img.shields.io/badge/fetch_api-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
 
 
