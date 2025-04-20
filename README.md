@@ -26,4 +26,6 @@
 ![WordPress](https://img.shields.io/badge/wordpress-%233E73A0.svg?style=for-the-badge&logo=wordpress&logoColor=white) 
 ![Shopify](https://img.shields.io/badge/shopify-%207AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white) 
 ![VueJS](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
